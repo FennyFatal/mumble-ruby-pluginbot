@@ -1,0 +1,7 @@
+---
+
+plugin:
+  gplayMusic:
+    username: "your-email"
+    password: "your-password"
+    devid: "your-device-id"
